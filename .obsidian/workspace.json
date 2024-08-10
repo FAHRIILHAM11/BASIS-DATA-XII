@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TGS-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3363e5ced6f7d4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TGS-1.md",
+                "file": "Basis Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TGS-1.md",
+                "file": "Basis Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TGS-1.md",
+                "file": "Basis Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TGS-1.md"
+                "file": "Basis Data.md"
               }
             }
           }
@@ -168,15 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3363e5ced6f7d4db",
+  "active": "893e2d728672b9e6",
   "lastOpenFiles": [
-    "asset/Capture2.PNG",
-    "asset/Capture1.PNG",
-    "asset/Capture3.PNG",
-    "asset/Capture6.PNG",
-    "asset",
-    "New folder",
+    "TGS-1.md",
+    "asset/use3.PNG",
+    "Basis Data.md",
+    "asset/use4.PNG",
+    "Untitled.md",
+    "asset/use2.PNG",
+    "asset/use1.PNG",
+    "asset/ospek18.PNG",
+    "asset/ospek17.PNG",
+    "asset/ospek16.PNG",
+    "asset/ospek15.PNG",
+    "asset/ospek13.PNG",
+    "asset/ospek14.PNG",
     "Tags",
-    "TGS-1.md"
+    "asset",
+    "New folder"
   ]
 }
